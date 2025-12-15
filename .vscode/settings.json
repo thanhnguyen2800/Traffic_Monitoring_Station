@@ -1,0 +1,21 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "d:\\esp-idf\\v5.5.1\\esp-idf",
+  "idf.toolsPathWin": "C:\\Users\\Admin\\.espressif",
+  "idf.pythonInstallPath": "C:\\Users\\Admin\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.portWin": "COM7",
+  "idf.openOcdConfigs": [
+    "interface/ftdi/esp32_devkitj_v1.cfg",
+    "target/esp32.cfg"
+  ],
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  },
+  "clangd.path": "C:\\Users\\Admin\\.espressif\\tools\\esp-clang\\esp-19.1.2_20250312\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=C:\\Users\\Admin\\.espressif\\tools\\xtensa-esp-elf\\esp-14.2.0_20241119\\xtensa-esp-elf\\bin\\xtensa-esp32-elf-gcc.exe",
+    "--compile-commands-dir=d:\\HE THONG NHUNG\\do_an(outside)\\build"
+  ],
+  "idf.flashType": "UART"
+}
